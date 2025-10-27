@@ -1,0 +1,15 @@
+
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { fill:#111827; font-family:Inter, sans-serif; font-size:18px; }
+    .box { fill:none; stroke:#4F46E5; stroke-width:2; }
+    .line { stroke:#4F46E5; stroke-width:2; }
+  </style>
+  <text x="200" y="50" class="text">Human Clinical Judgment & Decision-Making</text>
+  <rect x="250" y="80" width="300" height="70" class="box"/>
+  <text x="400" y="120" text-anchor="middle" class="text">Ambiome Orchestration Intelligence</text>
+  <line x1="400" y1="150" x2="200" y2="250" class="line"/>
+  <line x1="400" y1="150" x2="600" y2="250" class="line"/>
+  <rect x="150" y="250" width="500" height="60" class="box"/>
+  <text x="400" y="290" text-anchor="middle" class="text">Acute • Community • Regional Operational Systems</text>
+</svg>
